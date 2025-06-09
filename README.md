@@ -24,4 +24,7 @@ This is a Digital Stopwatch application written in C that allows the user to inp
 ### Working View:
 ![image alt](https://github.com/tabassumnazifa/Stop-watch-using-C-programming/blob/main/activity.png?raw=true)
 
+### Final View:
+![image alt](https://github.com/tabassumnazifa/Stop-watch-using-C-programming/blob/main/stop.png?raw=true)
+
 
