@@ -17,7 +17,11 @@ This is a Digital Stopwatch application written in C that allows the user to inp
 - On Linux, <unistd.h> is used for sleep().
 - On Windows, sleep() is replaced with Sleep(1000) from <windows.h>. You might want to modify this if you're targeting Windows specifically.
 ## Here's some output screenshot for better understanding:
+
 ### Taking input:
-[!image alt](https://github.com/tabassumnazifa/Stop-watch-using-C-programming/blob/main/inputvalue.png?raw=true)
+![image alt](https://github.com/tabassumnazifa/Stop-watch-using-C-programming/blob/main/inputvalue.png?raw=true)
+
+### Working View:
+![image alt](https://github.com/tabassumnazifa/Stop-watch-using-C-programming/blob/main/activity.png?raw=true)
 
 
